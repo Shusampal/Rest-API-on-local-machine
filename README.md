@@ -9,13 +9,28 @@ I have tested this API using postman.
 
 This API gives the information of the top 5 100m sprint Atheletes around the world . Data is taken by ranking.
 
-#Images
+# Images
 
+# delete method in postman
 ![](images/delete%20method%20in%20postman.png)
+
+# get by id method in postman
 ![](images/get%20by%20id%20method%20in%20postman.png)
+
+# get method in postman
 ![](images/get%20method%20in%20postman.png)
+
+# get method in browser
 ![](images/get%20request%20of%20API.png)
+
+# document in mongo db
 ![](images/mongoose%20compass%20DB%20data-1.png)
+
+# document in mongo db
 ![](images/mongoose%20compass%20DB%20data-2.png)
+
+# patch method in postman
 ![](images/patch%20method%20in%20postman.png)
+
+# post method in postman
 ![](images/post%20method%20in%20postman.png)
