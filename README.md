@@ -10,7 +10,7 @@ I have tested this API using postman.
 This API gives the information of the top 5 100m sprint Atheletes around the world . Data is taken by ranking.
 
 
-This API can be tested by just running the app.js file in local system.
+This API can be tested by just running the app.js file in local system. Also need to have local Mongo DB installed.
 
 # Images
 
